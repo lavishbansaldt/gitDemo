@@ -1,1 +1,2 @@
-This is a simple text file that has been added to the repository
+This is a simple text file that has been added to the repository. 
+Now I have added some text to illustrate branch text-change.
