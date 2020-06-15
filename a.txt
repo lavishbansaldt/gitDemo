@@ -1,3 +1,4 @@
 This is a simple text file that has been added to the repository. 
 Now I have added some text to illustrate branch text-change.
 More text added to be merged with readmeEdit branch
+Text for stashing.
